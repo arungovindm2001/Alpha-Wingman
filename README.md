@@ -45,6 +45,7 @@ These are the frameworks that we used:
 * Flask
 * HTML, CSS, JavaScript
 * NLTK, GingerIt
+* SpeechRecognition
 
 <!-- GETTING STARTED -->
 ## Getting Started
