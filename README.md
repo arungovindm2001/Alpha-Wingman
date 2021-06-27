@@ -60,7 +60,7 @@ To get a local copy up and running follow these simple example steps.
 ## Installation
 
 - Clone the repo
- - `https://github.com/arungovindm2001/Alpha-Wingman`
+ - `git clone https://github.com/arungovindm2001/Alpha-Wingman`
 - Install the necessary packages
  - `pip install -r requirements.txt`
 - Run the application
