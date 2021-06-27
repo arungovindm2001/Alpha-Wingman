@@ -1,6 +1,8 @@
 from flask import Blueprint, render_template, request, redirect, flash,Flask
 import os
 from werkzeug.utils import secure_filename
+from .video2text import video2text
+
 views = Blueprint('views', __name__)
 
 @views.route('/')
@@ -50,7 +52,7 @@ def vid_sum():
     if request.method == 'POST':
         f = request.files.get("file",False)
         f.save(secure_filename(f.filename))
-        created_summary=''
+        created_summary = video2text(f.filename)
     return render_template("vid_sum.html", summary = created_summary)
 
 def get_summary(link, length):
