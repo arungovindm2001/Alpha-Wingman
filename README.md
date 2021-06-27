@@ -78,19 +78,19 @@ Takes the video and display as a short summary of it.
 ## Screenshots
 
 ### Home Page
-<img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/563/749/datas/gallery.jpg">
+<!-- <img src="https://assets.devfolio.co/hackathons/f985fed517964c988b064d3670209f62/projects/17c71b08131749dfb224d366375368c2/73e0f469-4b03-455f-b5e4-dadb51880810.png"> -->
 
 ### Feature Page
-<img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/563/753/datas/gallery.jpg">
+<!-- <img src="https://assets.devfolio.co/hackathons/f985fed517964c988b064d3670209f62/projects/17c71b08131749dfb224d366375368c2/dbfddfed-8cb8-4da5-b4cb-bd1c41d0372b.png"> -->
 
 ### Summarizer
-<img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/563/751/datas/gallery.jpg">
+<!-- <img src="https://assets.devfolio.co/hackathons/f985fed517964c988b064d3670209f62/projects/17c71b08131749dfb224d366375368c2/adf54869-1b76-4319-ad41-7cac9422a407.png"> -->
 
 ### Speech-To-Text Editor
-<img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/564/049/datas/gallery.jpg">
+<!-- <img src="https://assets.devfolio.co/hackathons/f985fed517964c988b064d3670209f62/projects/17c71b08131749dfb224d366375368c2/da3cf48b-8ad3-45a8-bdf8-42030298cea6.png"> -->
 
 ### Grammar Checker
-<img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/563/750/datas/gallery.jpg"> 
+<!-- <img src="https://assets.devfolio.co/hackathons/f985fed517964c988b064d3670209f62/projects/17c71b08131749dfb224d366375368c2/5116667e-81f3-4ecd-b6a6-0084fb0fd91b.png"> -->
 
 
 <!-- CONTRIBUTING -->
