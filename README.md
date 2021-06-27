@@ -78,19 +78,19 @@ Takes the video and display as a short summary of it.
 ## Screenshots
 
 ### Home Page
-<!-- <img src="https://assets.devfolio.co/hackathons/f985fed517964c988b064d3670209f62/projects/17c71b08131749dfb224d366375368c2/73e0f469-4b03-455f-b5e4-dadb51880810.png"> -->
+<img src="https://github.com/arungovindm2001/Alpha-Wingman/blob/main/website/static/assets/img/gallery.jpg">
 
 ### Feature Page
-<!-- <img src="https://assets.devfolio.co/hackathons/f985fed517964c988b064d3670209f62/projects/17c71b08131749dfb224d366375368c2/dbfddfed-8cb8-4da5-b4cb-bd1c41d0372b.png"> -->
+<img src="https://github.com/arungovindm2001/Alpha-Wingman/blob/main/website/static/assets/img/Screenshot_2021-06-27_151608.png">
 
 ### Summarizer
-<!-- <img src="https://assets.devfolio.co/hackathons/f985fed517964c988b064d3670209f62/projects/17c71b08131749dfb224d366375368c2/adf54869-1b76-4319-ad41-7cac9422a407.png"> -->
+<img src="https://github.com/arungovindm2001/Alpha-Wingman/blob/main/website/static/assets/img/68747470733a2f2f6368616c6c656e6765706f73742d73332d6368616c6c656e6765706f73742e6e6574646e612d73736c2e636f6d2f70686f746f732f70726f64756374696f6e2f736f6674776172655f70686f746f732f3030312f3536332f3735312f6461746.jpg">
 
 ### Speech-To-Text Editor
-<!-- <img src="https://assets.devfolio.co/hackathons/f985fed517964c988b064d3670209f62/projects/17c71b08131749dfb224d366375368c2/da3cf48b-8ad3-45a8-bdf8-42030298cea6.png"> -->
+<img src="https://github.com/arungovindm2001/Alpha-Wingman/blob/main/website/static/assets/img/68747470733a2f2f6368616c6c656e6765706f73742d73332d6368616c6c656e6765706f73742e6e6574646e612d73736c2e636f6d2f70686f746f732f70726f64756374696f6e2f736f6674776172655f70686f746f732f3030312f3536342f3034392f6461746.jpg">
 
 ### Grammar Checker
-<!-- <img src="https://assets.devfolio.co/hackathons/f985fed517964c988b064d3670209f62/projects/17c71b08131749dfb224d366375368c2/5116667e-81f3-4ecd-b6a6-0084fb0fd91b.png"> -->
+<img src="https://github.com/arungovindm2001/Alpha-Wingman/blob/main/website/static/assets/img/68747470733a2f2f6368616c6c656e6765706f73742d73332d6368616c6c656e6765706f73742e6e6574646e612d73736c2e636f6d2f70686f746f732f70726f64756374696f6e2f736f6674776172655f70686f746f732f3030312f3536332f3735302f6461746.jpg">
 
 
 <!-- CONTRIBUTING -->
