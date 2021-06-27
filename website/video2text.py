@@ -34,6 +34,13 @@ def video2text(filename):
     file.write(text)
     print("ready!")
 
-  text = ast.literal_eval(text)
+  text = text.replace("\n", "@")
 
-  return text['alternative'][0]['transcript']
+
+  text = list(text.split('@'))
+  final = ''
+
+  for i in text:
+      txt = ast.literal_eval(i)
+      final += txt['alternative'][0]['transcript']
+  return final
