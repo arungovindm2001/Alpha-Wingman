@@ -17,4 +17,4 @@ wincertstore==0.2
 gingerit
 scipy
 moviepy
-speech_recognition
+SpeechRecognition
