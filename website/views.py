@@ -1,5 +1,6 @@
 from flask import Blueprint, render_template, request, redirect, flash,Flask
 import os
+from werkzeug import secure_filename
 views = Blueprint('views', __name__)
 
 @views.route('/')
@@ -38,6 +39,19 @@ def results():
             length = "long"
         created_summary = get_summary(link,length)
     return render_template("results.html", summary = created_summary)
+
+
+@views.route('/videosummary')
+def video():
+    return render_template("videosummarizer.html")
+
+@views.route('/videoresult', methods=['GET', 'POST'])
+def vid_sum():
+    if request.method == 'POST':
+        f = request.file["video"]
+        f.save(secure_filename(f.filename))
+        created_summary=''
+    return render_template("vid_sum.html", summary = created_summary)
 
 def get_summary(link, length):
     import nltk
